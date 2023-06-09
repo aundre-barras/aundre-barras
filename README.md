@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋 I'm Aundre
 
 <!--
 **aundre-barras/aundre-barras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
